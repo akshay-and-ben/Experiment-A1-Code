@@ -20,5 +20,5 @@ Below is a list detailing the contents of the attached files in the 'Experiment-
     7. Catalogue.csv -  a catalogue of galactic sources including data such as coordinate positons, total flux emitted from source, local
                         background values and the size of the aperture used to perform photometry
 
-The FITS data file analysed (A1_mosaic.fits) is also included in this folder
+The FITS data file analysed (A1_mosaic.fits) is not enclosed in this folder due to file size considerations
 
